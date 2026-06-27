@@ -1,0 +1,11 @@
+# IntelliJ (if you ever open the root project)
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
