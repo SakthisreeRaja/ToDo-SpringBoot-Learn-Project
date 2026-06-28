@@ -9,6 +9,12 @@ function login() {
 
 // Register page logic
 function register() {
+    const email = document.getElementById("email");
+    const password = document.getElementById("password");
+
+
+￼
+￼
 
 }
 
